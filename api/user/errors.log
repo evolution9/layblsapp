@@ -1,0 +1,63 @@
+[23-May-2013 15:15:18] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[23-May-2013 15:15:18] PHP Notice:  Undefined variable: tag_2 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 69
+[23-May-2013 15:15:18] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 70
+[23-May-2013 15:15:18] PHP Notice:  Undefined variable: tag_2 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 71
+[23-May-2013 15:15:18] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[23-May-2013 15:16:40] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[23-May-2013 15:16:40] PHP Notice:  Undefined variable: tag_2 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 69
+[23-May-2013 15:16:40] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 70
+[23-May-2013 15:16:40] PHP Notice:  Undefined variable: tag_2 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 71
+[23-May-2013 15:16:40] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[23-May-2013 15:18:22] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[23-May-2013 15:18:22] PHP Notice:  Undefined variable: tag_2 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 69
+[23-May-2013 15:18:22] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 70
+[23-May-2013 15:18:22] PHP Notice:  Undefined variable: tag_2 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 71
+[23-May-2013 15:18:22] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[23-May-2013 15:20:36] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[23-May-2013 15:20:36] PHP Fatal error:  Cannot access empty property in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[23-May-2013 15:20:54] PHP Notice:  Undefined index: data in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 6
+[23-May-2013 15:20:54] PHP Notice:  Trying to get property of non-object in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 9
+[23-May-2013 15:20:54] PHP Notice:  Trying to get property of non-object in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 10
+[23-May-2013 15:20:54] PHP Notice:  Trying to get property of non-object in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 11
+[23-May-2013 15:20:54] PHP Notice:  Trying to get property of non-object in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 12
+[23-May-2013 15:20:54] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 27
+[23-May-2013 15:20:57] PHP Notice:  Undefined variable: tag_1 in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[23-May-2013 15:20:57] PHP Fatal error:  Cannot access empty property in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 68
+[31-May-2013 11:35:09] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:35:53] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:36:10] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:37:02] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:37:30] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:39:35] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:39:42] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:39:43] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:40:06] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:40:56] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:42:23] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[31-May-2013 11:47:53] PHP Warning:  mysql_fetch_assoc() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\get_friend_profile.php on line 78
+[04-Jun-2013 18:16:39] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[04-Jun-2013 18:16:39] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:11:33] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:11:33] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:11:52] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:11:52] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:12:22] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:12:22] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:12:50] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:12:50] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:17:39] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:17:39] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:19:03] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:19:03] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:26:41] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:26:41] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 17:29:33] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 17:29:33] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 18:43:23] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 18:43:23] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 18:43:56] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 18:43:56] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 18:44:02] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 18:44:02] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23
+[07-Jun-2013 18:48:45] PHP Warning:  number_format() expects parameter 1 to be double, string given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 10
+[07-Jun-2013 18:48:45] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\user\sign_in.php on line 23

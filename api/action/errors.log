@@ -1,0 +1,25 @@
+[23-May-2013 20:23:52] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:24:01] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:24:08] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:24:12] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:24:31] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:24:51] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:24:55] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:25:02] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:25:21] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:25:35] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:27:06] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:27:11] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:28:13] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:28:48] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:35:30] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[23-May-2013 20:42:05] PHP Notice:  Undefined variable: today in H:\xampp\htdocs\laybls\api\action\removetag.php on line 93
+[29-May-2013 18:29:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at H:\xampp\htdocs\laybls\api\action\add_new_tag.php:3) in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 4
+[29-May-2013 18:29:51] PHP Notice:  Undefined property: stdClass::$label_name in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 10
+[29-May-2013 18:29:51] PHP Notice:  Undefined variable: user_id in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 18
+[29-May-2013 18:29:51] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 25
+[29-May-2013 18:30:15] PHP Notice:  Undefined property: stdClass::$label_name in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 9
+[29-May-2013 18:30:15] PHP Notice:  Undefined variable: user_id in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 17
+[29-May-2013 18:30:15] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 24
+[29-May-2013 18:30:44] PHP Notice:  Undefined variable: user_id in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 17
+[29-May-2013 18:30:44] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in H:\xampp\htdocs\laybls\api\action\add_new_tag.php on line 24
